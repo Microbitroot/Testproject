@@ -8,7 +8,7 @@ def roll_dice():
     return random.randint(1, 6)
 
 def main():
-    num_rolls = int(input("Enter the number to how many times you want to  roll the dice: "))
+    num_rolls = int(input("Enter the number to how many times you want to dslfldslfsldsl roll the dice: "))
 
     for _ in range(num_rolls):
         result = roll_dice()
